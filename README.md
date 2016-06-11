@@ -12,6 +12,7 @@ How It Works
 -
 
 Reddit replaces some hyperlinks on their website with affiliate links that eventually redirect to the actual destination URL. This extension can work one of two ways:
+
 1. The default behavior of the extension is to replace an affiliate URL with the actual destination URL whenever you hover over an affiliate link.
 2. You can also choose to automatically replace every affiliate URL with the destination URL after a page loads by uncommenting that section in the code. This may cause the page to load more slowly which is why it's not the default behavior.
 
